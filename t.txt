@@ -1,0 +1,1397 @@
+政企	ngesop	4	A	两组	192.168.136.77
+政企	ngesop	4	B	两组	192.168.136.78
+多媒体网关	ngmmgwsentcenter	4	A	两组	192.168.136.80
+多媒体网关	ngmmgwsentcenter	4	B	两组	192.168.136.81
+多媒体网关	ngmmgw	4	A	两组	192.168.136.82
+多媒体网关	ngmmgw	4	B	两组	192.168.136.83
+接口平台	crmpfesb	4	A	两组	192.168.136.84
+接口平台	crmpfesb	4	B	两组	192.168.136.85
+接口平台	crmpfesb	4	A	两组	192.168.136.86
+接口平台	crmpfesb	4	B	两组	192.168.136.87
+接口平台	crmpfesb	4	A	两组	192.168.136.111
+接口平台	crmpfesb	4	B	两组	192.168.136.112
+接口平台	crmpfesb	4	A	两组	192.168.136.113
+接口平台	crmpfesb	4	B	两组	192.168.136.114
+接口平台	crmpfesb	4	A	两组	192.168.136.115
+接口平台	crmpfesb	4	B	两组	192.168.136.116
+接口平台	crmpfesb	4	A	两组	192.168.136.117
+接口平台	crmpfesb	4	B	两组	192.168.136.118
+接口平台	crmpfesb	4	A	两组	192.168.136.119
+接口平台	crmpfesb	4	B	两组	192.168.136.120
+nginx	elk	1			192.168.152.27
+多租户	ngmtt	4	A	多组	192.168.152.28
+多租户	ngmtt	4	A	多组	192.168.152.29
+多租户	ngmtt	4	A	多组	192.168.152.30
+多租户	ngmtt	4	A	多组	192.168.152.31
+多租户	ngmtt	4	B	多组	192.168.152.32
+多租户	ngmtt	4	B	多组	192.168.152.33
+多租户	ngmtt	4	B	多组	192.168.152.34
+多租户	ngmtt	4	B	多组	192.168.152.35
+多租户	ngmtt	4	C	多组	192.168.152.36
+多租户	ngmtt	4	C	多组	192.168.152.37
+多租户	ngmtt	4	C	多组	192.168.152.38
+多租户	ngmtt	4	C	多组	192.168.152.39
+多租户	ngmtt	4	X	多组	192.168.152.40
+多租户	ngmttcontrol	4	A	多组	192.168.152.41
+多租户	ngmttcontrol	4	A	多组	192.168.152.42
+多租户	ngmttcontrol	4	A	多组	192.168.152.43
+多租户	ngmttcontrol	4	A	多组	192.168.152.44
+多租户	ngmttcontrol	4	B	多组	192.168.152.45
+多租户	ngmttcontrol	4	B	多组	192.168.152.46
+多租户	ngmttcontrol	4	B	多组	192.168.152.47
+多租户	ngmttcontrol	4	B	多组	192.168.152.48
+多租户	ngmttcontrol	4	C	多组	192.168.152.49
+多租户	ngmttcontrol	4	C	多组	192.168.152.50
+多租户	ngmttcontrol	4	C	多组	192.168.152.51
+多租户	ngmttcontrol	4	C	多组	192.168.152.52
+多租户	ngmttcontrol	4	X	多组	192.168.152.53
+多租户	ngmttcore	4	A	多组	192.168.152.54
+多租户	ngmttcore	4	A	多组	192.168.152.55
+多租户	ngmttcore	4	A	多组	192.168.152.56
+多租户	ngmttcore	4	A	多组	192.168.152.57
+多租户	ngmttcore	4	B	多组	192.168.152.58
+多租户	ngmttcore	4	B	多组	192.168.152.59
+多租户	ngmttcore	4	B	多组	192.168.152.60
+多租户	ngmttcore	4	B	多组	192.168.152.61
+多租户	ngmttcore	4	C	多组	192.168.152.62
+多租户	ngmttcore	4	C	多组	192.168.152.63
+多租户	ngmttcore	4	C	多组	192.168.152.64
+多租户	ngmttcore	4	C	多组	192.168.152.65
+多租户	ngmttcore	4	X	多组	192.168.152.66
+接续框架	ngcs	4	A	多组	192.168.152.67
+接续框架	ngcs	4	A	多组	192.168.152.68
+接续框架	ngcs	4	A	多组	192.168.152.69
+接续框架	ngcs	4	A	多组	192.168.152.70
+接续框架	ngcs	4	A	多组	192.168.152.71
+接续框架	ngcs	4	B	多组	192.168.152.72
+接续框架	ngcs	4	B	多组	192.168.152.73
+接续框架	ngcs	4	B	多组	192.168.152.74
+接续框架	ngcs	4	B	多组	192.168.152.75
+接续框架	ngcs	4	B	多组	192.168.152.76
+接续框架	ngcs	4	C	多组	192.168.152.77
+接续框架	ngcs	4	C	多组	192.168.152.78
+接续框架	ngcs	4	C	多组	192.168.152.79
+接续框架	ngcs	4	C	多组	192.168.152.80
+接续框架	ngcs	4	C	多组	192.168.152.81
+接续框架	ngcs	4	X	多组	192.168.152.82
+接续框架	ngcscontrol	4	A	多组	192.168.152.83
+接续框架	ngcscontrol	4	A	多组	192.168.152.84
+接续框架	ngcscontrol	4	A	多组	192.168.152.85
+接续框架	ngcscontrol	4	A	多组	192.168.152.86
+接续框架	ngcscontrol	4	A	多组	192.168.152.87
+接续框架	ngcscontrol	4	B	多组	192.168.152.88
+接续框架	ngcscontrol	4	B	多组	192.168.152.89
+接续框架	ngcscontrol	4	B	多组	192.168.152.90
+接续框架	ngcscontrol	4	B	多组	192.168.152.91
+接续框架	ngcscontrol	4	B	多组	192.168.152.92
+接续框架	ngcscontrol	4	C	多组	192.168.152.93
+接续框架	ngcscontrol	4	C	多组	192.168.152.94
+接续框架	ngcscontrol	4	C	多组	192.168.152.95
+接续框架	ngcscontrol	4	C	多组	192.168.152.96
+接续框架	ngcscontrol	4	C	多组	192.168.152.97
+接续框架	ngcscontrol	4	X	多组	192.168.152.98
+接续框架	ngcscore	4	A	多组	192.168.152.99
+接续框架	ngcscore	4	A	多组	192.168.152.100
+接续框架	ngcscore	4	A	多组	192.168.152.101
+接续框架	ngcscore	4	A	多组	192.168.152.102
+接续框架	ngcscore	4	A	多组	192.168.152.103
+接续框架	ngcscore	4	B	多组	192.168.152.104
+接续框架	ngcscore	4	B	多组	192.168.152.105
+接续框架	ngcscore	4	B	多组	192.168.152.106
+接续框架	ngcscore	4	B	多组	192.168.152.107
+接续框架	ngcscore	4	B	多组	192.168.152.108
+接续框架	ngcscore	4	C	多组	192.168.152.109
+接续框架	ngcscore	4	C	多组	192.168.152.110
+接续框架	ngcscore	4	C	多组	192.168.152.111
+接续框架	ngcscore	4	C	多组	192.168.152.112
+接续框架	ngcscore	4	C	多组	192.168.152.113
+接续框架	ngcscore	4	X	多组	192.168.152.114
+接触管理	ngcct	4	A	多组	192.168.152.115
+接触管理	ngcct	4	A	多组	192.168.152.116
+接触管理	ngcct	4	A	多组	192.168.152.117
+接触管理	ngcct	4	A	多组	192.168.152.118
+接触管理	ngcct	4	B	多组	192.168.152.119
+接触管理	ngcct	4	B	多组	192.168.152.120
+接触管理	ngcct	4	B	多组	192.168.152.121
+接触管理	ngcct	4	B	多组	192.168.152.122
+接触管理	ngcct	4	C	多组	192.168.152.123
+接触管理	ngcct	4	C	多组	192.168.152.124
+接触管理	ngcct	4	C	多组	192.168.152.125
+接触管理	ngcct	4	C	多组	192.168.152.126
+接触管理	ngcct	4	X	多组	192.168.152.127
+接触管理	ngcctcontrol	4	A	多组	192.168.152.128
+接触管理	ngcctcontrol	4	A	多组	192.168.152.129
+接触管理	ngcctcontrol	4	A	多组	192.168.152.130
+接触管理	ngcctcontrol	4	A	多组	192.168.152.131
+接触管理	ngcctcontrol	4	B	多组	192.168.152.132
+接触管理	ngcctcontrol	4	B	多组	192.168.152.133
+接触管理	ngcctcontrol	4	B	多组	192.168.152.134
+接触管理	ngcctcontrol	4	B	多组	192.168.152.135
+接触管理	ngcctcontrol	4	C	多组	192.168.152.136
+接触管理	ngcctcontrol	4	C	多组	192.168.152.137
+接触管理	ngcctcontrol	4	C	多组	192.168.152.138
+接触管理	ngcctcontrol	4	C	多组	192.168.152.139
+接触管理	ngcctcontrol	4	X	多组	192.168.152.140
+接触管理	ngcctcore	4	A	多组	192.168.152.141
+接触管理	ngcctcore	4	A	多组	192.168.152.142
+接触管理	ngcctcore	4	A	多组	192.168.152.143
+接触管理	ngcctcore	4	A	多组	192.168.152.144
+接触管理	ngcctcore	4	B	多组	192.168.152.145
+接触管理	ngcctcore	4	B	多组	192.168.152.146
+接触管理	ngcctcore	4	B	多组	192.168.152.147
+接触管理	ngcctcore	4	B	多组	192.168.152.148
+接触管理	ngcctcore	4	C	多组	192.168.152.149
+接触管理	ngcctcore	4	C	多组	192.168.152.150
+接触管理	ngcctcore	4	C	多组	192.168.152.151
+接触管理	ngcctcore	4	C	多组	192.168.152.152
+接触管理	ngcctcore	4	X	多组	192.168.152.153
+日志管理	ngcslog	4	A	多组	192.168.152.154
+日志管理	ngcslog	4	A	多组	192.168.152.155
+日志管理	ngcslog	4	A	多组	192.168.152.156
+日志管理	ngcslog	4	A	多组	192.168.152.157
+日志管理	ngcslog	4	B	多组	192.168.152.158
+日志管理	ngcslog	4	B	多组	192.168.152.159
+日志管理	ngcslog	4	B	多组	192.168.152.160
+日志管理	ngcslog	4	B	多组	192.168.152.161
+日志管理	ngcslog	4	C	多组	192.168.152.162
+日志管理	ngcslog	4	C	多组	192.168.152.163
+日志管理	ngcslog	4	C	多组	192.168.152.164
+日志管理	ngcslog	4	C	多组	192.168.152.165
+日志管理	ngcslog	4	X	多组	192.168.152.166
+日志管理	ngcslogcontrol	4	A	多组	192.168.152.167
+日志管理	ngcslogcontrol	4	A	多组	192.168.152.168
+日志管理	ngcslogcontrol	4	A	多组	192.168.152.169
+日志管理	ngcslogcontrol	4	A	多组	192.168.152.170
+日志管理	ngcslogcontrol	4	B	多组	192.168.152.171
+日志管理	ngcslogcontrol	4	B	多组	192.168.152.172
+日志管理	ngcslogcontrol	4	B	多组	192.168.152.173
+日志管理	ngcslogcontrol	4	B	多组	192.168.152.174
+日志管理	ngcslogcontrol	4	C	多组	192.168.152.175
+日志管理	ngcslogcontrol	4	C	多组	192.168.152.176
+日志管理	ngcslogcontrol	4	C	多组	192.168.152.177
+日志管理	ngcslogcontrol	4	C	多组	192.168.152.178
+日志管理	ngcslogcontrol	4	X	多组	192.168.152.179
+日志管理	ngcslogcore	4	A	多组	192.168.152.180
+日志管理	ngcslogcore	4	A	多组	192.168.152.181
+日志管理	ngcslogcore	4	A	多组	192.168.152.182
+日志管理	ngcslogcore	4	A	多组	192.168.152.183
+日志管理	ngcslogcore	4	B	多组	192.168.152.184
+日志管理	ngcslogcore	4	B	多组	192.168.152.185
+日志管理	ngcslogcore	4	B	多组	192.168.152.186
+日志管理	ngcslogcore	4	B	多组	192.168.152.187
+日志管理	ngcslogcore	4	C	多组	192.168.152.188
+日志管理	ngcslogcore	4	C	多组	192.168.152.189
+日志管理	ngcslogcore	4	C	多组	192.168.152.190
+日志管理	ngcslogcore	4	C	多组	192.168.152.191
+日志管理	ngcslogcore	4	X	多组	192.168.152.192
+服务请求	ngwf	4	A	多组	192.168.152.193
+服务请求	ngwf	4	A	多组	192.168.152.194
+服务请求	ngwf	4	B	多组	192.168.152.195
+服务请求	ngwf	4	B	多组	192.168.152.196
+服务请求	ngwf	4	C	多组	192.168.152.197
+服务请求	ngwf	4	C	多组	192.168.152.198
+服务请求	ngwf	4	X	多组	192.168.152.199
+服务请求	ngwfcontrol	4	A	多组	192.168.152.200
+服务请求	ngwfcontrol	4	A	多组	192.168.152.201
+服务请求	ngwfcontrol	4	B	多组	192.168.152.202
+服务请求	ngwfcontrol	4	B	多组	192.168.152.203
+服务请求	ngwfcontrol	4	C	多组	192.168.152.204
+服务请求	ngwfcontrol	4	C	多组	192.168.152.205
+服务请求	ngwfcontrol	4	X	多组	192.168.152.206
+服务请求	ngwfcore	4	A	多组	192.168.152.207
+服务请求	ngwfcore	4	A	多组	192.168.152.208
+服务请求	ngwfcore	4	B	多组	192.168.152.209
+服务请求	ngwfcore	4	B	多组	192.168.152.210
+服务请求	ngwfcore	4	C	多组	192.168.152.211
+服务请求	ngwfcore	4	C	多组	192.168.152.212
+服务请求	ngwfcore	4	X	多组	192.168.152.213
+全网业务办理	ngbusi	4	A	多组	192.168.152.214
+全网业务办理	ngbusi	4	A	多组	192.168.152.215
+全网业务办理	ngbusi	4	B	多组	192.168.152.216
+全网业务办理	ngbusi	4	B	多组	192.168.152.217
+全网业务办理	ngbusi	4	C	多组	192.168.152.218
+全网业务办理	ngbusi	4	C	多组	192.168.152.219
+全网业务办理	ngbusi	4	X	多组	192.168.152.220
+全网业务办理	ngbusicontrol	4	A	多组	192.168.152.221
+全网业务办理	ngbusicontrol	4	A	多组	192.168.152.222
+全网业务办理	ngbusicontrol	4	B	多组	192.168.152.223
+全网业务办理	ngbusicontrol	4	B	多组	192.168.152.224
+全网业务办理	ngbusicontrol	4	C	多组	192.168.152.225
+全网业务办理	ngbusicontrol	4	C	多组	192.168.152.226
+全网业务办理	ngbusicontrol	4	X	多组	192.168.152.227
+全网业务办理	ngbusicore	4	A	多组	192.168.152.228
+全网业务办理	ngbusicore	4	A	多组	192.168.152.229
+全网业务办理	ngbusicore	4	B	多组	192.168.152.230
+政企渠道	政企mq、mqconsumer	1	0	停机发布	192.168.153.6
+政企渠道	政企mq、mqconsumer	1	0	停机发布	192.168.153.7
+全网业务办理	ngbusicore	4	B	多组	192.168.153.16
+全网业务办理	ngbusicore	4	C	多组	192.168.153.17
+全网业务办理	ngbusicore	4	C	多组	192.168.153.18
+全网业务办理	ngbusicore	4	X	多组	192.168.153.19
+精益外呼	ngoc	4	A	两组	192.168.153.20
+精益外呼	ngoc	4	B	两组	192.168.153.21
+精益外呼	ngoc	4	A	两组	192.168.153.22
+精益外呼	ngoc	4	B	两组	192.168.153.24
+精益外呼	ngoccontrol	4	A	两组	192.168.153.30
+精益外呼	ngoccontrol	4	B	两组	192.168.153.31
+精益外呼	ngoccontrol	4	A	两组	192.168.153.35
+精益外呼	ngoccontrol	4	B	两组	192.168.153.36
+精益外呼	ngoccore	4	A	两组	192.168.153.37
+精益外呼	ngoccore	4	B	两组	192.168.153.38
+精益外呼	ngoccore	4	A	两组	192.168.153.39
+精益外呼	ngoccore	4	B	两组	192.168.153.40
+问卷	ngqss	4	A	两组	192.168.153.41
+问卷	ngqss	4	B	两组	192.168.153.42
+问卷	ngqss	4	A	两组	192.168.153.43
+问卷	ngqss	4	B	两组	192.168.153.44
+问卷	ngqsscontrol	4	A	两组	192.168.153.45
+问卷	ngqsscontrol	4	B	两组	192.168.153.46
+问卷	ngqsscontrol	4	A	两组	192.168.153.47
+问卷	ngqsscontrol	4	B	两组	192.168.153.48
+问卷	ngqsscore	4	A	两组	192.168.153.49
+问卷	ngqsscore	4	B	两组	192.168.153.50
+问卷	ngqsscore	4	A	两组	192.168.153.51
+问卷	ngqsscore	4	B	两组	192.168.153.52
+家宽	ngwlan	4	A	两组	192.168.153.53
+家宽	ngwlan	4	B	两组	192.168.153.54
+家宽	ngwlancontrol	4	A	两组	192.168.153.55
+家宽	ngwlancontrol	4	B	两组	192.168.153.56
+家宽	ngwlancore	4	A	两组	192.168.153.57
+家宽	ngwlancore	4	B	两组	192.168.153.58
+公告便签	nganoce	4	A	两组	192.168.153.59
+公告便签	nganoce	4	B	两组	192.168.153.60
+公告便签	nganocecontrol	4	A	两组	192.168.153.61
+公告便签	nganocecontrol	4	B	两组	192.168.153.62
+公告便签	nganocecore	4	A	两组	192.168.153.63
+公告便签	nganocecore	4	B	两组	192.168.153.64
+即时通讯	ngim	4	A	两组	192.168.153.65
+即时通讯	ngim	4	B	两组	192.168.153.66
+即时通讯	ngim	4	A	两组	192.168.153.67
+即时通讯	ngim	4	B	两组	192.168.153.68
+即时通讯	ngimcontrol	4	A	两组	192.168.153.69
+即时通讯	ngimcontrol	4	B	两组	192.168.153.70
+即时通讯	ngimcontrol	4	A	两组	192.168.153.71
+即时通讯	ngimcontrol	4	B	两组	192.168.153.72
+即时通讯	ngimcore	4	A	两组	192.168.153.73
+即时通讯	ngimcore	4	B	两组	192.168.153.74
+即时通讯	ngimcore	4	A	两组	192.168.153.75
+即时通讯	ngimcore	4	B	两组	192.168.153.76
+政企	ngesop	4	A	两组	192.168.153.77
+政企	ngesop	4	B	两组	192.168.153.78
+政企	ngesopcontrol	4	A	两组	192.168.153.79
+政企	ngesopcontrol	4	B	两组	192.168.153.80
+政企	ngesopcore	4	A	两组	192.168.153.81
+政企	ngesopcore	4	B	两组	192.168.153.82
+渠道	ngchnl	4	A	两组	192.168.153.83
+渠道	ngchnl	4	B	两组	192.168.153.84
+渠道	ngchnlcontrol	4	A	两组	192.168.153.85
+渠道	ngchnlcontrol	4	B	两组	192.168.153.86
+渠道	ngchnlcore	4	A	两组	192.168.153.87
+渠道	ngchnlcore	4	B	两组	192.168.153.88
+多媒体管理	ngmm	4	A	两组	192.168.153.89
+多媒体管理	ngmm	4	B	两组	192.168.153.90
+多媒体管理	ngmmcontrol	4	A	两组	192.168.153.91
+多媒体管理	ngmmcontrol	4	B	两组	192.168.153.92
+多媒体管理	ngmmcore	4	A	两组	192.168.153.93
+多媒体管理	ngmmcore	4	B	两组	192.168.153.94
+多媒体管理	ngmmserver	4	A	两组	192.168.153.95
+多媒体管理	ngmmserver	4	B	两组	192.168.153.96
+多媒体网关	ngmmgwsentcenter	4	A	两组	192.168.153.97
+多媒体网关	ngmmgwsentcenter	4	B	两组	192.168.153.98
+多媒体网关	ngmmgwrevcenter	4	A	两组	192.168.153.99
+多媒体网关	ngmmgwrevcenter	4	B	两组	192.168.153.100
+多媒体网关	ngmmgwcontrol	4	A	两组	192.168.153.101
+多媒体网关	ngmmgwcontrol	4	B	两组	192.168.153.102
+多媒体网关	ngmmgwcore	4	A	两组	192.168.153.103
+多媒体网关	ngmmgwcore	4	B	两组	192.168.153.104
+业务受理	ngba	4	A	两组	192.168.153.105
+业务受理	ngba	4	B	两组	192.168.153.106
+业务受理	ngbacontrol	4	A	两组	192.168.153.107
+业务受理	ngbacontrol	4	B	两组	192.168.153.108
+业务受理	ngbacore	4	A	两组	192.168.153.109
+业务受理	ngbacore	4	B	两组	192.168.153.110
+一级接口平台	crmpfmq	4	0	停机发布	192.168.153.111
+一级接口平台	crmpfmq	4	0	停机发布	192.168.153.112
+一级接口平台	crmpfesb	4	A	两组	192.168.153.113
+一级接口平台	crmpfesb	4	A	两组	192.168.153.114
+一级接口平台	crmpfesb	4	A	两组	192.168.153.115
+一级接口平台	crmpfesb	4	A	两组	192.168.153.116
+一级接口平台	crmpfcore	4	A	两组	192.168.153.117
+一级接口平台	crmpfcore	4	B	两组	192.168.153.118
+一级接口平台	crmpfcore	4	B	两组	192.168.153.119
+一级接口平台	crmpfcore	4	B	两组	192.168.153.120
+一级接口平台	crmpfcore	4	B	两组	192.168.153.121
+一级接口平台	crmpfcore	4	B	两组	192.168.153.122
+一级接口平台	crmpfcore	4	A	两组	192.168.153.123
+一级接口平台	crmpfcore	4	A	两组	192.168.153.124
+一级接口平台	crmpfcore	4	A	两组	192.168.153.125
+一级接口平台	crmpfcore	4	A	两组	192.168.153.126
+一级接口平台	crmpfcore	4	A	两组	192.168.153.127
+一级接口平台	crmpfcore	4	B	两组	192.168.153.128
+一级接口平台	crmpfcore	4	B	两组	192.168.153.129
+一级接口平台	crmpfcore	4	B	两组	192.168.153.130
+一级接口平台	crmpfcore	4	B	两组	192.168.153.131
+一级接口平台	crmpfcore	4	B	两组	192.168.153.132
+工作流平台	wf_platform	4	A	两组	192.168.153.133
+工作流平台	wf_platform	4	B	两组	192.168.153.134
+工作流平台	wf_platform	4	A	两组	192.168.153.135
+工作流平台	wf_platform	4	B	两组	192.168.153.136
+工作流平台	wf_nbpm	4	A	两组	192.168.153.137
+工作流平台	wf_nbpm	4	B	两组	192.168.153.138
+工作流平台	wf_nbpm	4	A	两组	192.168.153.139
+工作流平台	wf_nbpm	4	A	两组	192.168.153.140
+精益外呼	ngoc	3	X	停机发布	192.168.153.141
+问卷	ngqss	3	X	停机发布	192.168.153.142
+家宽	ngwlan	3	X	停机发布	192.168.153.143
+多媒体管理	ngmm	4	X	停机发布	192.168.153.144
+多媒体网关	ngmmgw	5	X	停机发布	192.168.153.145
+业务受理	ngba	2	X	停机发布	192.168.153.146
+一级接口平台	crmpf	2	X	停机发布	192.168.153.147
+公告便签	nganoce	3	X	停机发布	192.168.153.148
+接续配置	ngcfg	1	A	两组	192.168.153.149
+接续配置	ngcfg	1	B	两组	192.168.153.150
+接续配置	ngcfgcontrol	1	A	两组	192.168.153.151
+接续配置	ngcfgcontrol	1	B	两组	192.168.153.152
+接续配置	ngcfgcore	1	A	两组	192.168.153.153
+接续配置	ngcfgcore	1	B	两组	192.168.153.154
+家宽营销	ngwlanmk	4	A	两组	192.168.153.155
+家宽营销	ngwlanmk	4	B	两组	192.168.153.156
+家宽营销	ngwlanmkcontrol	4	A	两组	192.168.153.157
+家宽营销	ngwlanmkcontrol	4	B	两组	192.168.153.158
+家宽营销	ngwlanmkcore	4	A	两组	192.168.153.159
+家宽营销	ngwlanmkcore	4	B	两组	192.168.153.160
+H5营业厅	mmpfront	4		两组	192.168.153.161
+H5营业厅	mmpfront	4		两组	192.168.153.162
+H5营业厅	mmpweb	4		两组	192.168.153.163
+H5营业厅	mmpweb	4		两组	192.168.153.164
+H5营业厅	mmpcore	4		两组	192.168.153.165
+H5营业厅	mmpcore	4		两组	192.168.153.166
+即时通讯	ngim	3	X	停机发布	192.168.153.167
+家宽营销	ngwlanmk	3	X	停机发布	192.168.153.168
+分析平台	csap		0	停机发布	192.168.153.169
+分析平台	csap		0	停机发布	192.168.153.170
+分析平台	csap		0	停机发布	192.168.153.171
+分析平台	csap		0	停机发布	192.168.153.172
+分析平台	csap		0	停机发布	192.168.153.173
+分析平台	csap		0	停机发布	192.168.153.174
+渠道	rocketmq			停机发布	192.168.153.175
+渠道	rocketmq			停机发布	192.168.153.176
+ivr管理平台	ivrmt				192.168.153.177
+ivr管理平台	ivrmt				192.168.153.178
+ivr管理平台	ivrmt				192.168.153.179
+ivr管理平台	ivrmt				192.168.153.180
+ivr管理平台	ivrmt				192.168.153.181
+ivr管理平台	ivrmt				192.168.153.182
+云问卷	云问卷mq			停机发布	192.168.153.183
+云问卷	云问卷mq			停机发布	192.168.153.184
+安徽	ngbusi_ah	4	A	两组	192.168.153.185
+安徽	ngbusi_ah	4	B	两组	192.168.153.186
+安徽	nglocal_ah	4	A	两组	192.168.153.187
+安徽	nglocal_ah	4	B	两组	192.168.153.188
+安徽	ngwf_ah	4	A	两组	192.168.153.189
+安徽	ngwf_ah	4	B	两组	192.168.153.190
+安徽	ngbusicontrol_ah	4	A	两组	192.168.153.191
+安徽	ngbusicontrol_ah	4	B	两组	192.168.153.192
+安徽	nglocalcontrol_ah	4	A	两组	192.168.153.193
+安徽	nglocalcontrol_ah	4	B	两组	192.168.153.194
+安徽	ngwfcontrol_ah	4	A	两组	192.168.153.195
+安徽	ngwfcontrol_ah	4	B	两组	192.168.153.196
+安徽	ngbusicore_ah	4	A	两组	192.168.153.197
+安徽	ngbusicore_ah	4	B	两组	192.168.153.198
+安徽	nglocalcore_ah	4	A	两组	192.168.153.199
+安徽	nglocalcore_ah	4	B	两组	192.168.153.200
+安徽	ngwfcore_ah	4	A	两组	192.168.153.201
+安徽	ngwfcore_ah	4	B	两组	192.168.153.202
+重庆	ngbusi_cq	4	A	两组	192.168.153.203
+重庆	ngbusi_cq	4	B	两组	192.168.153.204
+重庆	ngbusicontrol_cq	4	A	两组	192.168.153.205
+重庆	ngbusicontrol_cq	4	B	两组	192.168.153.206
+重庆	ngbusicore_cq	4	A	两组	192.168.153.207
+重庆	ngbusicore_cq	4	B	两组	192.168.153.208
+重庆	ngwf_cq	4	A	两组	192.168.153.209
+重庆	ngwf_cq	4	B	两组	192.168.153.210
+重庆	ngwfcontrol_cq	4	A	两组	192.168.153.211
+重庆	ngwfcontrol_cq	4	B	两组	192.168.153.212
+重庆	ngwfcore_cq	4	A	两组	192.168.153.213
+重庆	ngwfcore_cq	4	B	两组	192.168.153.214
+知识库					192.168.153.215
+知识库					192.168.153.216
+知识库					192.168.153.217
+知识库					192.168.153.218
+知识库					192.168.153.219
+知识库					192.168.153.220
+安徽	ngwf_ah、ngbusi_ah	6	X		192.168.153.221
+安徽	nglocal	3	X		192.168.153.222
+重庆	ngwf_cq、ngbusi_cq	6	X		192.168.153.223
+二级应用负载均衡	nginx	1			192.168.154.6
+二级应用负载均衡	nginx	1			192.168.154.7
+山东	nglocal_sd	4	A	两组	192.168.154.8
+山东	nglocal_sd	4	B	两组	192.168.154.9
+山东	nglocalcontrol_sd	4	A	两组	192.168.154.10
+山东	nglocalcontrol_sd	4	B	两组	192.168.154.11
+山东	nglocalcore_sd	4	A	两组	192.168.154.12
+山东	nglocalcore_sd	4	B	两组	192.168.154.13
+山东	ngbusi_sd	4	A	两组	192.168.154.14
+山东	ngbusi_sd	4	B	两组	192.168.154.15
+山东	ngbusicontrol_sd	4	A	两组	192.168.154.16
+山东	ngbusicontrol_sd	4	B	两组	192.168.154.17
+山东	ngbusicore_sd	4	A	两组	192.168.154.18
+山东	ngbusicore_sd	4	B	两组	192.168.154.19
+山东	nglocal_sd,ngbusi_sd	6	X	停机发布	192.168.154.20
+广西	ngbusi_gx	4	A	两组	192.168.154.21
+广西	ngbusi_gx	4	B	两组	192.168.154.22
+广西	ngbusicontrol_gx	4	A	两组	192.168.154.23
+广西	ngbusicontrol_gx	4	B	两组	192.168.154.24
+广西	ngbusicore_gx	4	A	两组	192.168.154.25
+广西	ngbusicore_gx	4	B	两组	192.168.154.26
+广西	ngwf_gx	4	A	两组	192.168.154.27
+广西	ngwf_gx	4	B	两组	192.168.154.28
+广西	ngwfcontrol_gx	4	A	两组	192.168.154.29
+广西	ngwfcontrol_gx	4	B	两组	192.168.154.30
+广西	ngwfcore_gx	4	A	两组	192.168.154.31
+广西	ngwfcore_gx	4	B	两组	192.168.154.32
+河北	ngbusi_he	4	A	两组	192.168.154.33
+河北	ngbusi_he	4	B	两组	192.168.154.34
+河北	ngbusicontrol_he	4	A	两组	192.168.154.35
+河北	ngbusicontrol_he	4	B	两组	192.168.154.36
+河北	ngbusicore_he	4	A	两组	192.168.154.37
+河北	ngbusicore_he	4	B	两组	192.168.154.38
+河北	ngwf_he	4	A	两组	192.168.154.39
+河北	ngwf_he	4	B	两组	192.168.154.40
+河北	ngwfcontrol_he	4	A	两组	192.168.154.41
+河北	ngwfcontrol_he	4	B	两组	192.168.154.42
+河北	ngwfcore_he	4	A	两组	192.168.154.43
+河北	ngwfcore_he	4	B	两组	192.168.154.44
+河北	nglocal_he	4	A	两组	192.168.154.45
+河北	nglocal_he	4	B	两组	192.168.154.46
+河北	nglocalcontrol_he	4	A	两组	192.168.154.47
+河北	nglocalcontrol_he	4	B	两组	192.168.154.48
+河北	nglocalcore_he	4	A	两组	192.168.154.49
+河北	nglocalcore_he	4	B	两组	192.168.154.50
+云南	ngbusi_yn	4	A	两组	192.168.154.51
+云南	ngbusi_yn	4	B	两组	192.168.154.52
+云南	ngbusicontrol_yn	4	A	两组	192.168.154.53
+云南	ngbusicontrol_yn	4	B	两组	192.168.154.54
+云南	ngbusicore_yn	4	A	两组	192.168.154.55
+云南	ngbusicore_yn	4	B	两组	192.168.154.56
+云南	ngwf_yn	4	A	两组	192.168.154.57
+云南	ngwf_yn	4	B	两组	192.168.154.58
+云南	ngwfcontrol_yn	4	A	两组	192.168.154.59
+云南	ngwfcontrol_yn	4	B	两组	192.168.154.60
+云南	ngwfcore_yn	4	A	两组	192.168.154.61
+云南	ngwfcore_yn	4	B	两组	192.168.154.62
+黑龙江	ngbusi_hl	4	A	两组	192.168.154.63
+黑龙江	ngbusi_hl	4	B	两组	192.168.154.64
+黑龙江	ngbusicontrol_hl	4	A	两组	192.168.154.65
+黑龙江	ngbusicontrol_hl	4	B	两组	192.168.154.66
+黑龙江	ngbusicore_hl	4	A	两组	192.168.154.67
+黑龙江	ngbusicore_hl	4	B	两组	192.168.154.68
+黑龙江	ngwf_hl	4	A	两组	192.168.154.69
+黑龙江	ngwf_hl	4	B	两组	192.168.154.70
+黑龙江	ngwfcontrol_hl	4	A	两组	192.168.154.71
+黑龙江	ngwfcontrol_hl	4	B	两组	192.168.154.72
+黑龙江	ngwfcore_hl	4	A	两组	192.168.154.73
+黑龙江	ngwfcore_hl	4	B	两组	192.168.154.74
+黑龙江	nglocal_hl	4	A	两组	192.168.154.75
+黑龙江	nglocal_hl	4	B	两组	192.168.154.76
+黑龙江	nglocalcontrol_hl	4	A	两组	192.168.154.77
+黑龙江	nglocalcontrol_hl	4	B	两组	192.168.154.78
+黑龙江	nglocalcore_hl	4	A	两组	192.168.154.79
+黑龙江	nglocalcore_hl	4	B	两组	192.168.154.80
+广西	ngwf_gx、ngbusi_gx	6	X		192.168.154.81
+河北	ngwf_he、ngbusi_he	6	X		192.168.154.82
+黑龙江	ngwf_hl、ngbusi_hl	6	X		192.168.154.83
+河北、黑龙江	nglocal_he、nglocal_hl	6	X		192.168.154.84
+云南	ngwf_yn、ngbusi_yn	6	X		192.168.154.85
+话务监控调度	ngbmp	4	A		192.168.154.110
+话务监控调度	ngbmp	4	B		192.168.154.111
+话务监控调度	ngbmpcontrol	4	A		192.168.154.112
+话务监控调度	ngbmpcontrol	4	B		192.168.154.113
+话务监控调度	ngbmpcore	4	A		192.168.154.114
+话务监控调度	ngbmpcore	4	B		192.168.154.115
+					192.168.154.125
+					192.168.154.126
+					192.168.154.127
+辽宁	ngbusi_ln	4	A	两组	192.168.154.128
+辽宁	ngbusi_ln	4	B	两组	192.168.154.129
+辽宁	ngbusicontrol_ln	4	A	两组	192.168.154.130
+辽宁	ngbusicontrol_ln	4	B	两组	192.168.154.131
+辽宁	ngbusicore_ln	4	A	两组	192.168.154.132
+辽宁	ngbusicore_ln	4	B	两组	192.168.154.133
+辽宁	ngwf_ln	4	A	两组	192.168.154.134
+辽宁	ngwf_ln	4	B	两组	192.168.154.135
+辽宁	ngwfcontrol_ln	4	A	两组	192.168.154.136
+辽宁	ngwfcontrol_ln	4	B	两组	192.168.154.137
+辽宁	ngwfcore_ln	4	A	两组	192.168.154.138
+辽宁	ngwfcore_ln	4	B	两组	192.168.154.139
+辽宁	ngbusi_ln、ngwf_ln	6	x	两组	192.168.154.140
+ngms	ngms	4	A	两组	192.168.154.141
+ngms	ngms	4	B	两组	192.168.154.142
+ngms	ngmscontrol	4	A	两组	192.168.154.143
+ngms	ngmscontrol	4	B	两组	192.168.154.144
+ngms	ngmscore	4	A	两组	192.168.154.145
+ngms	ngmscore	4	B	两组	192.168.154.146
+ngms	ngms	4	X	停机发布	192.168.154.147
+ngms	rocketMQ3.5.8	1		停机发布	192.168.154.148
+ngms	rocketMQ3.5.8	1		停机发布	192.168.154.149
+ngms	ngmssentcenter	2		停机发布	192.168.154.150
+ngms	ngmssentcenter	2	X	停机发布	192.168.154.151
+吉林	ngbusi_jl	4	A	两组	192.168.154.152
+吉林	ngbusi_jl	4	B	两组	192.168.154.153
+吉林	nglocal_jl	4	A	两组	192.168.154.154
+吉林	nglocal_jl	4	B	两组	192.168.154.155
+吉林	ngwf_jl	4	A	两组	192.168.154.156
+吉林	ngwf_jl	4	B	两组	192.168.154.157
+吉林	ngbusicontrol_jl	4	A	两组	192.168.154.158
+吉林	ngbusicontrol_jl	4	B	两组	192.168.154.159
+吉林	nglocalcontrol_jl	4	A	两组	192.168.154.160
+吉林	nglocalcontrol_jl	4	B	两组	192.168.154.161
+吉林	ngwfcontrol_jl	4	A	两组	192.168.154.162
+吉林	ngwfcontrol_jl	4	B	两组	192.168.154.163
+吉林	ngbusicore_jl	4	A	两组	192.168.154.164
+吉林	ngbusicore_jl	4	B	两组	192.168.154.165
+吉林	nglocalcore_jl	4	A	两组	192.168.154.166
+吉林	nglocalcore_jl	4	B	两组	192.168.154.167
+吉林	ngwfcore_jl	4	A	两组	192.168.154.168
+吉林	ngwfcore_jl	4	B	两组	192.168.154.169
+湖北	ngbusi_hb	4	A	两组	192.168.154.170
+湖北	ngbusi_hb	4	B	两组	192.168.154.171
+湖北	nglocal_hb	4	A	两组	192.168.154.172
+湖北	nglocal_hb	4	B	两组	192.168.154.173
+湖北	ngwf_hb	4	A	两组	192.168.154.174
+湖北	ngwf_hb	4	B	两组	192.168.154.175
+湖北	ngbusicontrol_hb	4	A	两组	192.168.154.176
+湖北	ngbusicontrol_hb	4	B	两组	192.168.154.177
+湖北	nglocalcontrol_hb	4	A	两组	192.168.154.178
+湖北	nglocalcontrol_hb	4	B	两组	192.168.154.179
+湖北	ngwfcontrol_hb	4	A	两组	192.168.154.180
+湖北	ngwfcontrol_hb	4	B	两组	192.168.154.181
+湖北	ngbusicore_hb	4	A	两组	192.168.154.182
+湖北	ngbusicore_hb	4	B	两组	192.168.154.183
+湖北	nglocalcore_hb	4	A	两组	192.168.154.184
+湖北	nglocalcore_hb	4	B	两组	192.168.154.185
+湖北	ngwfcore_hb	4	A	两组	192.168.154.186
+湖北	ngwfcore_hb	4	B	两组	192.168.154.187
+湖北	ngbusi_hb	3	X	停机发布	192.168.154.188
+湖北	ngwf_hb	3	x	停机发布	192.168.154.189
+湖北	nglocal_hb	3	x	停机发布	192.168.154.190
+ngcs解耦	ngcs_base	4	A	多组	192.168.154.191
+ngcs解耦	ngcs_base	4	B	多组	192.168.154.192
+ngcs解耦	ngcs_base	4	A	多组	192.168.154.193
+ngcs解耦	ngcs_base	4	B	多组	192.168.154.194
+ngcs解耦	ngcsmcontrol	4	A	多组	192.168.154.195
+ngcs解耦	ngcsmcontrol	4	B	多组	192.168.154.196
+ngcs解耦	ngcsmcontrol	4	A	多组	192.168.154.197
+ngcs解耦	ngcsmcontrol	4	B	多组	192.168.154.198
+ngcs解耦	ngcsmcore	4	A	多组	192.168.154.199
+ngcs解耦	ngcsmcore	4	B	多组	192.168.154.200
+ngcs解耦	ngcsmcore	4	A	多组	192.168.154.201
+ngcs解耦	ngcsmcore	4	B	多组	192.168.154.202
+ngcs解耦	ngcs_netcontrol	4	A	多组	192.168.154.203
+ngcs解耦	ngcs_netcontrol	4	B	多组	192.168.154.204
+ngcs解耦	ngcs_netcontrol	4	A	多组	192.168.154.205
+ngcs解耦	ngcs_netcontrol	4	B	多组	192.168.154.206
+ngcs解耦	ngcs_netcore	4	A	多组	192.168.154.207
+ngcs解耦	ngcs_netcore	4	B	多组	192.168.154.208
+ngcs解耦	ngcs_netcore	4	A	多组	192.168.154.209
+ngcs解耦	ngcs_netcore	4	B	多组	192.168.154.210
+ngcs解耦	ngcs_base	4	X	停机发布	192.168.154.211
+ngcs解耦	ngcsmcontrol	4	X	停机发布	192.168.154.212
+ngcs解耦	ngcsmcore	4	X	停机发布	192.168.154.213
+ngcs解耦	ngcs_netcontrol	4	X	停机发布	192.168.154.214
+ngcs解耦	ngcsnetcore	4	X	停机发布	192.168.154.215
+新疆	ngwfcore_xj	4	B	两组	192.168.154.216
+新疆	ngwfcore_xj	4	A	两组	192.168.154.217
+新疆	ngwfcontrol_xj	4	B	两组	192.168.154.218
+新疆	ngwfcontrol_xj	4	A	两组	192.168.154.219
+新疆	ngwf_xj	4	B	两组	192.168.154.220
+新疆	ngwf_xj	4	A	两组	192.168.154.221
+新疆	ngbusicore_xj	4	B	两组	192.168.154.222
+新疆	ngbusicore_xj	4	A	两组	192.168.154.223
+新疆	ngbusicontrol_xj	4	B	两组	192.168.154.224
+新疆	ngbusicontrol_xj	4	A	两组	192.168.154.225
+新疆	ngbusi_xj	4	B	两组	192.168.154.226
+新疆	ngbusi_xj	4	A	两组	192.168.154.227
+新疆	ngwf_xj	3	X	停机发布	192.168.154.228
+新疆	ngbusi_xj	3	X	停机发布	192.168.154.229
+一级平台负载均衡	nginx	1			192.168.157.172
+一级平台负载均衡	nginx	1			192.168.157.173
+二级应用负载均衡	nginx	1			192.168.157.174
+二级应用负载均衡	nginx	1			192.168.157.175
+河南	ngwf_ha	4	A	两组	192.168.160.55
+河南	ngwf_ha	4	B	两组	192.168.160.56
+河南	ngwfcontrol_ha	4	A	两组	192.168.160.57
+河南	ngwfcontrol_ha	4	B	两组	192.168.160.58
+河南	ngwfcore_ha	4	A	两组	192.168.160.59
+河南	ngwfcore_ha	4	B	两组	192.168.160.60
+河南	ngbusi_ha	4	A	两组	192.168.160.61
+河南	ngbusi_ha	4	B	两组	192.168.160.62
+河南	ngbusicontrol_ha	4	A	两组	192.168.160.63
+河南	ngbusicontrol_ha	4	B	两组	192.168.160.64
+河南	ngbusicore_ha	4	A	两组	192.168.160.65
+河南	ngbusicore_ha	4	B	两组	192.168.160.66
+广东	ngbusi_gd	4			192.168.160.67
+广东	ngbusi_gd	4			192.168.160.68
+广东	ngbusi_gd	4			192.168.160.69
+广东	ngbusi_gd	4			192.168.160.70
+广东	ngbusi_gd	4			192.168.160.71
+广东	ngbusi_gd	4			192.168.160.72
+广东	ngbusicontrol_gd	4			192.168.160.73
+广东	ngbusicontrol_gd	4			192.168.160.74
+广东	ngbusicontrol_gd	4			192.168.160.75
+广东	ngbusicontrol_gd	4			192.168.160.76
+广东	ngbusicontrol_gd	4			192.168.160.77
+广东	ngbusicontrol_gd	4			192.168.160.78
+广东	ngbusicore_gd	4			192.168.160.79
+广东	ngbusicore_gd	4			192.168.160.80
+广东	ngbusicore_gd	4			192.168.160.81
+广东	ngbusicore_gd	4			192.168.160.82
+广东	ngbusicore_gd	4			192.168.160.83
+广东	ngbusicore_gd	4			192.168.160.84
+					192.168.160.85
+山西	ngwf_sx	4	A	两组	192.168.160.109
+山西	ngwf_sx	4	B	两组	192.168.160.110
+山西	ngwf_sx	4	A	两组	192.168.160.111
+山西	ngwf_sx	4	B	两组	192.168.160.112
+山西	ngwfcontrol_sx	4	A	两组	192.168.160.113
+山西	ngwfcontrol_sx	4	B	两组	192.168.160.114
+山西	ngwfcontrol_sx	4	A	两组	192.168.160.115
+山西	ngwfcontrol_sx	4	B	两组	192.168.160.116
+山西	ngwfcore_sx	4	A	两组	192.168.160.117
+山西	ngwfcore_sx	4	B	两组	192.168.160.118
+山西	ngwfcore_sx	4	A	两组	192.168.160.119
+山西	ngwfcore_sx	4	B	两组	192.168.160.120
+山西	ngbusi_sx	4	A	两组	192.168.160.121
+山西	ngbusi_sx	4	B	两组	192.168.160.122
+山西	ngbusi_sx	4	A	两组	192.168.160.123
+山西	ngbusi_sx	4	B	两组	192.168.160.124
+山西	ngbusicontrol_sx	4	A	两组	192.168.160.125
+山西	ngbusicontrol_sx	4	B	两组	192.168.160.126
+山西	ngbusicontrol_sx	4	A	两组	192.168.160.127
+山西	ngbusicontrol_sx	4	B	两组	192.168.160.128
+山西	ngbusicore_sx	4	A	两组	192.168.160.129
+山西	ngbusicore_sx	4	B	两组	192.168.160.130
+山西	ngbusicore_sx	4	A	两组	192.168.160.131
+山西	ngbusicore_sx	4	B	两组	192.168.160.132
+山西	nglocal_sx	4	A	两组	192.168.160.133
+山西	nglocal_sx	4	B	两组	192.168.160.134
+山西	nglocal_sx	4	A	两组	192.168.160.135
+山西	nglocal_sx	4	B	两组	192.168.160.136
+山西	nglocalcontrol_sx	4	A	两组	192.168.160.137
+山西	nglocalcontrol_sx	4	B	两组	192.168.160.138
+山西	nglocalcontrol_sx	4	A	两组	192.168.160.139
+山西	nglocalcontrol_sx	4	B	两组	192.168.160.140
+山西	nglocalcore_sx	4	A	两组	192.168.160.141
+山西	nglocalcore_sx	4	B	两组	192.168.160.142
+山西	nglocalcore_sx	4	A	两组	192.168.160.143
+山西	nglocalcore_sx	4	B	两组	192.168.160.144
+山西	ngwf_sx	3	X	停机发布	192.168.160.145
+山西	ngbusi_sx	3	X	停机发布	192.168.160.146
+山西	nglocal_sx	3	X	停机发布	192.168.160.147
+福建	ngwf_fj	4	A	两组	192.168.160.148
+福建	ngwf_fj	4	B	两组	192.168.160.149
+福建	ngwf_fj	4	A	两组	192.168.160.150
+福建	ngwf_fj	4	B	两组	192.168.160.151
+福建	ngwfcontrol_fj	4	A	两组	192.168.160.152
+福建	ngwfcontrol_fj	4	B	两组	192.168.160.153
+福建	ngwfcontrol_fj	4	A	两组	192.168.160.154
+福建	ngwfcontrol_fj	4	B	两组	192.168.160.155
+福建	ngwfcore_fj	4	A	两组	192.168.160.156
+福建	ngwfcore_fj	4	B	两组	192.168.160.157
+福建	ngwfcore_fj	4	A	两组	192.168.160.158
+福建	ngwfcore_fj	4	B	两组	192.168.160.159
+福建	ngbusi_fj	4	A	两组	192.168.160.160
+福建	ngbusi_fj	4	B	两组	192.168.160.161
+福建	ngbusi_fj	4	A	两组	192.168.160.162
+福建	ngbusi_fj	4	B	两组	192.168.160.163
+福建	ngbusicontrol_fj	4	A	两组	192.168.160.164
+福建	ngbusicontrol_fj	4	B	两组	192.168.160.165
+福建	ngbusicontrol_fj	4	A	两组	192.168.160.166
+福建	ngbusicontrol_fj	4	B	两组	192.168.160.167
+福建	ngbusicore_fj	4	A	两组	192.168.160.168
+福建	ngbusicore_fj	4	B	两组	192.168.160.169
+福建	ngbusicore_fj	4	A	两组	192.168.160.170
+福建	ngbusicore_fj	4	B	两组	192.168.160.171
+福建	nglocal_fj	4	A	两组	192.168.160.172
+福建	nglocal_fj	4	B	两组	192.168.160.173
+福建	nglocal_fj	4	A	两组	192.168.160.174
+福建	nglocal_fj	4	B	两组	192.168.160.175
+福建	nglocalcontrol_fj	4	A	两组	192.168.160.176
+福建	nglocalcontrol_fj	4	B	两组	192.168.160.177
+福建	nglocalcontrol_fj	4	A	两组	192.168.160.178
+福建	nglocalcontrol_fj	4	B	两组	192.168.160.179
+福建	nglocalcore_fj	4	A	两组	192.168.160.180
+福建	nglocalcore_fj	4	B	两组	192.168.160.181
+福建	nglocalcore_fj	4	A	两组	192.168.160.182
+福建	nglocalcore_fj	4	B	两组	192.168.160.183
+福建	ngwf_fj	3	X	停机发布	192.168.160.184
+福建	ngbusi_fj	3	X	停机发布	192.168.160.185
+福建	nglocal_fj	3	X	停机发布	192.168.160.186
+江西	ngbusi_jx	4	A	两组	192.168.160.187
+江西	ngbusi_jx	4	A	两组	192.168.160.188
+江西	ngbusi_jx	4	B	两组	192.168.160.189
+江西	ngbusi_jx	4	B	两组	192.168.160.190
+江西	ngbusicontrol_jx	4	A	两组	192.168.160.191
+江西	ngbusicontrol_jx	4	A	两组	192.168.160.192
+江西	ngbusicontrol_jx	4	B	两组	192.168.160.193
+江西	ngbusicontrol_jx	4	B	两组	192.168.160.194
+江西	ngbusicore_jx	4	A	两组	192.168.160.195
+江西	ngbusicore_jx	4	A	两组	192.168.160.196
+江西	ngbusicore_jx	4	B	两组	192.168.160.197
+江西	ngbusicore_jx	4	B	两组	192.168.160.198
+江西	ngwf_jx	4	A	两组	192.168.160.199
+江西	ngwf_jx	4	A	两组	192.168.160.200
+江西	ngwf_jx	4	B	两组	192.168.160.201
+江西	ngwf_jx	4	B	两组	192.168.160.202
+江西	ngwfcontrol_jx	4	A	两组	192.168.160.203
+江西	ngwfcontrol_jx	4	A	两组	192.168.160.204
+江西	ngwfcontrol_jx	4	B	两组	192.168.160.205
+江西	ngwfcontrol_jx	4	B	两组	192.168.160.206
+江西	ngwfcore_jx	4	A	两组	192.168.160.207
+江西	ngwfcore_jx	4	A	两组	192.168.160.208
+江西	ngwfcore_jx	4	B	两组	192.168.160.209
+江西	ngwfcore_jx	4	B	两组	192.168.160.210
+湖南	ngbusi_hn			两组	192.168.160.211
+湖南	ngbusi_hn			两组	192.168.160.212
+湖南	ngbusicontrol_hn			两组	192.168.160.213
+湖南	ngbusicontrol_hn			两组	192.168.160.214
+湖南	ngbusicore_hn			两组	192.168.160.215
+湖南	ngbusicore_hn			两组	192.168.160.216
+湖南	nglocal_hn			两组	192.168.160.217
+湖南	nglocal_hn			两组	192.168.160.218
+湖南	nglocalcontrol_hn			两组	192.168.160.219
+湖南	nglocalcontrol_hn			两组	192.168.160.220
+湖南	nglocalcore_hn			两组	192.168.160.221
+湖南	nglocalcore_hn			两组	192.168.160.222
+全网家宽营销服务二级应用	ngwlanex			两组	192.168.160.223
+全网家宽营销服务二级应用	ngwlanex			两组	192.168.160.224
+全网家宽营销服务二级应用	ngwlanexcontrol			两组	192.168.160.225
+全网家宽营销服务二级应用	ngwlanexcontrol			两组	192.168.160.226
+全网家宽营销服务二级应用	ngwlanexcore			两组	192.168.160.227
+全网家宽营销服务二级应用	ngwlanexcore			两组	192.168.160.228
+江西	ngbusi_jx	3	x	停机发布	192.168.160.229
+江西	ngwf_jx	3	x	停机发布	192.168.160.230
+陕西	ngwf_sn			两组	192.168.162.6
+陕西	ngwf_sn			两组	192.168.162.7
+陕西	ngwfcontrol_sn			两组	192.168.162.8
+陕西	ngwfcontrol_sn			两组	192.168.162.9
+陕西	ngwfcore_sn			两组	192.168.162.10
+陕西	ngwfcore_sn			两组	192.168.162.11
+陕西	ngbusi_sn			两组	192.168.162.12
+陕西	ngbusi_sn			两组	192.168.162.13
+陕西	ngbusicontrol_sn			两组	192.168.162.14
+陕西	ngbusicontrol_sn			两组	192.168.162.15
+陕西	ngbusicore_sn			两组	192.168.162.16
+陕西	ngbusicore_sn			两组	192.168.162.17
+甘肃	ngwf_gs			两组	192.168.162.18
+甘肃	ngwf_gs			两组	192.168.162.19
+甘肃	ngwfcontrol_gs			两组	192.168.162.20
+甘肃	ngwfcontrol_gs			两组	192.168.162.21
+甘肃	ngwfcore_gs			两组	192.168.162.22
+甘肃	ngwfcore_gs			两组	192.168.162.23
+甘肃	ngbusi_gs			两组	192.168.162.24
+甘肃	ngbusi_gs			两组	192.168.162.25
+甘肃	ngbusicontrol_gs			两组	192.168.162.26
+甘肃	ngbusicontrol_gs			两组	192.168.162.27
+甘肃	ngbusicore_gs			两组	192.168.162.28
+甘肃	ngbusicore_gs			两组	192.168.162.29
+海南	ngwf_hi			两组	192.168.162.30
+海南	ngwf_hi			两组	192.168.162.31
+海南	ngwfcontrol_hi			两组	192.168.162.32
+海南	ngwfcontrol_hi			两组	192.168.162.33
+海南	ngwfcore_hi			两组	192.168.162.34
+海南	ngwfcore_hi			两组	192.168.162.35
+海南	ngbusi_hi			两组	192.168.162.36
+海南	ngbusi_hi			两组	192.168.162.37
+海南	ngbusicontrol_hi			两组	192.168.162.38
+海南	ngbusicontrol_hi			两组	192.168.162.39
+海南	ngbusicore_hi			两组	192.168.162.40
+海南	ngbusicore_hi			两组	192.168.162.41
+青海	ngwf_qh		A	两组	192.168.162.42
+青海	ngwf_qh		B	两组	192.168.162.43
+青海	ngwfcontrol_qh		A	两组	192.168.162.44
+青海	ngwfcontrol_qh		B	两组	192.168.162.45
+青海	ngwfcore_qh		A	两组	192.168.162.46
+青海	ngwfcore_qh		B	两组	192.168.162.47
+青海	ngbusi_qh		A	两组	192.168.162.48
+青海	ngbusi_qh		B	两组	192.168.162.49
+青海	ngbusicontrol_qh		A	两组	192.168.162.50
+青海	ngbusicontrol_qh		B	两组	192.168.162.51
+青海	ngbusicore_qh		A	两组	192.168.162.52
+青海	ngbusicore_qh		B	两组	192.168.162.53
+上海	ngwf_sh			两组	192.168.162.54
+上海	ngwf_sh			两组	192.168.162.55
+上海	ngwf_sh			两组	192.168.162.56
+上海	ngwf_sh			两组	192.168.162.57
+上海	ngwfcontrol_sh			两组	192.168.162.58
+上海	ngwfcontrol_sh			两组	192.168.162.59
+上海	ngwfcontrol_sh			两组	192.168.162.60
+上海	ngwfcontrol_sh			两组	192.168.162.61
+上海	ngwfcore_sh			两组	192.168.162.62
+上海	ngwfcore_sh			两组	192.168.162.63
+上海	ngwfcore_sh			两组	192.168.162.64
+上海	ngwfcore_sh			两组	192.168.162.65
+上海	ngbusi_sh			两组	192.168.162.66
+上海	ngbusi_sh			两组	192.168.162.67
+上海	ngbusi_sh			两组	192.168.162.68
+上海	ngbusi_sh			两组	192.168.162.69
+上海	ngbusicontrol_sh			两组	192.168.162.70
+上海	ngbusicontrol_sh			两组	192.168.162.71
+上海	ngbusicontrol_sh			两组	192.168.162.72
+上海	ngbusicontrol_sh			两组	192.168.162.73
+上海	ngbusicore_sh			两组	192.168.162.74
+上海	ngbusicore_sh			两组	192.168.162.75
+上海	ngbusicore_sh			两组	192.168.162.76
+上海	ngbusicore_sh			两组	192.168.162.77
+内蒙古	ngwf_nm			两组	192.168.162.78
+内蒙古	ngwf_nm			两组	192.168.162.79
+内蒙古	ngwfcontrol_nm			两组	192.168.162.80
+内蒙古	ngwfcontrol_nm			两组	192.168.162.81
+内蒙古	ngwfcore_nm			两组	192.168.162.82
+内蒙古	ngwfcore_nm			两组	192.168.162.83
+内蒙古	ngbusi_nm			两组	192.168.162.84
+内蒙古	ngbusi_nm			两组	192.168.162.85
+内蒙古	ngbusicontrol_nm			两组	192.168.162.86
+内蒙古	ngbusicontrol_nm			两组	192.168.162.87
+内蒙古	ngbusicore_nm			两组	192.168.162.88
+内蒙古	ngbusicore_nm			两组	192.168.162.89
+江西	ngbusi_jx		X	停机发布	192.168.162.90
+江西	ngwf_jx		X	停机发布	192.168.162.91
+湖南	ngbusi_hn		X	停机发布	192.168.162.92
+湖南	nglocal_hn		X	停机发布	192.168.162.93
+河南	ngwf_ha		X	停机发布	192.168.162.94
+河南	ngbusi_ha		X	停机发布	192.168.162.95
+天津	ngbusi_tj		b	两组	192.168.162.96
+天津	ngbusicontrol_tj		a		192.168.162.97
+天津	ngbusicontrol_tj		b		192.168.162.98
+天津	ngbusicore_tj		a		192.168.162.99
+天津	ngbusicore_tj		b		192.168.162.100
+天津	ngwf_tj		a		192.168.162.101
+天津	ngwf_tj		b		192.168.162.102
+天津	ngwfcontrol_tj		a		192.168.162.103
+天津	ngwfcontrol_tj		b		192.168.162.104
+天津	ngwfcore_tj		a		192.168.162.105
+天津	ngwfcore_tj		b		192.168.162.106
+天津	ngbusi_tj		a		192.168.162.107
+天津	ngbusi_tj		x		192.168.163.4
+天津	ngwf_tj		x		192.168.163.5
+内蒙	ngwf_nm		x		192.168.163.6
+内蒙	ngbusi_nm		x		192.168.163.10
+广东	ngbusi_gd		x		192.168.163.11
+陕西	ngwf_sn		x		192.168.163.12
+陕西	ngbusi_sn		x		192.168.163.14
+甘肃	ngwf_gs		x		192.168.163.17
+甘肃	ngbusi_gs		x		192.168.163.18
+海南	ngbuis_hi		x		192.168.163.21
+海南	ngwf_hi	4	x		192.168.163.22
+青海	ngwf_qh	4	x		192.168.163.24
+青海	ngbusi_qh	4	x		192.168.163.25
+上海	ngwf_sh	4	x		192.168.163.26
+上海	ngbusi_sh	4	x		192.168.163.27
+四川	ngbusi_sc	4	a		192.168.163.28
+四川	ngbusi_sc	4	b		192.168.163.29
+四川	ngbusicontrol_sc	4	a		192.168.163.30
+四川	ngbusicontrol_sc	4	b		192.168.163.31
+四川	ngbusicore_sc	4	a		192.168.163.32
+四川	ngbusicore_sc	4	b		192.168.163.34
+四川	ngwf_sc	4	a		192.168.163.35
+四川	ngwf_sc	4	b		192.168.163.37
+四川	ngwfcontrol_sc	4	a		192.168.163.40
+四川	ngwfcontrol_sc	4	b		192.168.163.44
+四川	ngwfcore_sc	4	a		192.168.163.47
+四川	ngwfcore_sc	4	b		192.168.163.48
+四川	ngbusi_sc	3	x		192.168.163.49
+四川	ngwf_sc	3	x		192.168.163.50
+江苏	ngbusi_js	4	a		192.168.163.52
+江苏	ngbusi_js	4	a		192.168.163.53
+江苏	ngbusi_js	4	b		192.168.163.55
+江苏	ngbusi_js	4	b		192.168.163.56
+江苏	ngbusicontrol_js	4	a		192.168.163.57
+江苏	ngbusicontrol_js	4	a		192.168.163.59
+江苏	ngbusicontrol_js	4	b		192.168.163.60
+江苏	ngbusicontrol_js	4	b		192.168.163.61
+江苏	ngbusicore_js	4	a		192.168.163.62
+江苏	ngbusicore_js	4	a		192.168.163.63
+江苏	ngbusicore_js	4	b		192.168.163.64
+江苏	ngbusicore_js	4	b		192.168.163.65
+江苏	ngwf_js	4	a		192.168.163.66
+江苏	ngwf_js	4	a		192.168.163.69
+江苏	ngwf_js	4	b		192.168.163.71
+江苏	ngwf_js	4	b		192.168.163.73
+江苏	ngwfcontrol_js	4	a		192.168.163.76
+江苏	ngwfcontrol_js	4	a		192.168.163.77
+江苏	ngwfcontrol_js	4	b		192.168.163.78
+江苏	ngwfcontrol_js	4	b		192.168.163.81
+江苏	ngwfcore_js	4	a		192.168.163.82
+江苏	ngwfcore_js	4	a		192.168.163.83
+江苏	ngwfcore_js	4	b		192.168.163.84
+江苏	ngwfcore_js	4	b		192.168.163.85
+江苏	ngwf_js	3	x		192.168.163.86
+江苏	ngbusi_js	3	x		192.168.163.87
+浙江	ngbusi_zj	4	a		192.168.163.88
+浙江	ngbusi_zj	4	b		192.168.163.89
+浙江	ngbusicontrol_zj	4	a		192.168.163.90
+浙江	ngbusicontrol_zj	4	b		192.168.163.91
+浙江	ngbusicore_zj	4	a		192.168.163.93
+浙江	ngbusicore_zj	4	b		192.168.163.94
+浙江	ngwf_zj	4	a		192.168.163.95
+浙江	ngwf_zj	4	b		192.168.163.96
+浙江	ngwfcontrol_zj	4	a		192.168.163.98
+浙江	ngwfcontrol_zj	4	b		192.168.163.99
+浙江	ngwfcore_zj	4	a		192.168.163.100
+浙江	ngwfcore_zj	4	b		192.168.163.101
+浙江	ngbusi_zj	3	X		192.168.163.102
+浙江	ngwf_zj	3	X		192.168.163.103
+浙江	ngwflocal_zj	3	X		192.168.163.105
+浙江	nglocal_zj	4	a		192.168.163.106
+浙江	nglocal_zj	4	b		192.168.163.109
+浙江	nglocalcontrol_zj	4	a		192.168.163.110
+浙江	nglocalcontrol_zj	4	b		192.168.163.115
+浙江	nglocalcore_zj	4	a		192.168.163.118
+浙江	nglocalcore_zj	4	b		192.168.163.121
+贵州	ngbusi_gz	4	a		192.168.163.125
+贵州	ngbusi_gz	4	b		192.168.163.126
+贵州	ngbusicontrol_gz	4	a		192.168.163.127
+贵州	ngbusicontrol_gz	4	b		192.168.163.128
+贵州	ngbusicore_gz	4	a		192.168.163.129
+贵州	ngbusicore_gz	4	b		192.168.163.131
+贵州	ngwf_gz	4	a		192.168.163.132
+贵州	ngwf_gz	4	b		192.168.163.133
+贵州	ngwfcontrol_gz	4	a		192.168.163.134
+贵州	ngwfcontrol_gz	4	b		192.168.163.135
+贵州	ngwfcore_gz	4	a		192.168.163.137
+贵州	ngwfcore_gz	4	b		192.168.163.139
+贵州	ngbusi_gz	3	x		192.168.163.141
+贵州	ngwf_gz	3	x		192.168.163.142
+北京	ngbusi_bj	4	a		192.168.163.144
+北京	ngbusi_bj	4	b		192.168.163.148
+北京	ngbusicontrol_bj	4	a		192.168.163.149
+北京	ngbusicontrol_bj	4	b		192.168.163.150
+北京	ngbusicore_bj	4	a		192.168.163.151
+北京	ngbusicore_bj	4	b		192.168.163.152
+北京	ngwf_bj	4	a		192.168.163.154
+北京	ngwf_bj	4	b		192.168.163.155
+北京	ngwfcontrol_bj	4	a		192.168.163.156
+北京	ngwfcontrol_bj	4	b		192.168.163.157
+北京	ngwfcore_bj	4	a		192.168.163.159
+北京	ngwfcore_bj	4	b		192.168.163.161
+北京	ngbusi_bj	3	x		192.168.163.162
+北京	ngwf_bj	3	x		192.168.163.163
+客户群	ngcg	4	A		192.168.163.164
+客户群	ngcg	4	B		192.168.163.165
+客户群	ngcgcontrol	4	A		192.168.163.166
+客户群	ngcgcontrol	4	B		192.168.163.167
+客户群	ngcgcore	4	A		192.168.163.168
+客户群	ngcgcore	4	B		192.168.163.169
+客户群	ngcg	3	X		192.168.163.171
+山东	ngwf_sd	4	A		192.168.163.172
+山东	ngwf_sd	4	B		192.168.163.173
+山东	ngwfcontrol_sd	4	A		192.168.163.174
+山东	ngwfcontrol_sd	4	B		192.168.163.175
+山东	ngwfcore_sd	4	A		192.168.163.176
+山东	ngwfcore_sd	4	B		192.168.163.177
+山东	ngwf_sd ngwfcontrol_sd ngwfcore_sd	3	X		192.168.163.179
+云南	nglocal_yn	4	A		192.168.163.180
+云南	nglocal_yn	4	B		192.168.163.181
+云南	nglocalcontrol_yn	4	A		192.168.163.184
+云南	nglocalcontrol_yn	4	B		192.168.163.185
+云南	nglocalcore_yn	4	A		192.168.163.186
+云南	nglocalcore_yn	4	B		192.168.163.187
+云南	nglocal_yn	3	X		192.168.163.189
+多租户	ngmtt	4	D	多组	192.168.163.193
+多租户	ngmtt	4	D	多组	192.168.163.194
+多租户	ngmtt	4	D	多组	192.168.163.198
+多租户	ngmtt	4	D	多组	192.168.163.200
+多租户	ngmtt	4	E	多组	192.168.163.201
+多租户	ngmtt	4	E	多组	192.168.163.202
+多租户	ngmtt	4	E	多组	192.168.163.203
+多租户	ngmtt	4	E	多组	192.168.163.204
+多租户	ngmttcontrol	4	D	多组	192.168.163.205
+多租户	ngmttcontrol	4	D	多组	192.168.163.206
+多租户	ngmttcontrol	4	D	多组	192.168.163.208
+多租户	ngmttcontrol	4	D	多组	192.168.163.210
+多租户	ngmttcontrol	4	E	多组	192.168.163.212
+多租户	ngmttcontrol	4	E	多组	192.168.163.214
+多租户	ngmttcontrol	4	E	多组	192.168.163.215
+多租户	ngmttcontrol	4	E	多组	192.168.163.217
+多租户	ngmttcore	4	D	多组	192.168.163.218
+多租户	ngmttcore	4	D	多组	192.168.163.219
+多租户	ngmttcore	4	D	多组	192.168.163.221
+多租户	ngmttcore	4	D	多组	192.168.163.222
+多租户	ngmttcore	4	E	多组	192.168.163.225
+多租户	ngmttcore	4	E	多组	192.168.163.226
+多租户	ngmttcore	4	E	多组	192.168.163.227
+多租户	ngmttcore	4	E	多组	192.168.163.229
+接续框架	ngcs	4	D	多组	192.168.163.230
+接续框架	ngcs	4	D	多组	192.168.191.4
+接续框架	ngcs	4	D	多组	192.168.191.5
+接续框架	ngcs	4	D	多组	192.168.191.7
+接续框架	ngcs	4	D	多组	192.168.191.10
+接续框架	ngcs	4	E	多组	192.168.191.11
+接续框架	ngcs	4	E	多组	192.168.191.17
+接续框架	ngcs	4	E	多组	192.168.191.19
+接续框架	ngcs	4	E	多组	192.168.191.21
+接续框架	ngcs	4	E	多组	192.168.191.23
+接续框架	ngcscontrol	4	D	多组	192.168.191.24
+接续框架	ngcscontrol	4	D	多组	192.168.191.25
+接续框架	ngcscontrol	4	D	多组	192.168.191.26
+接续框架	ngcscontrol	4	D	多组	192.168.191.27
+接续框架	ngcscontrol	4	D	多组	192.168.191.28
+接续框架	ngcscontrol	4	E	多组	192.168.191.29
+接续框架	ngcscontrol	4	E	多组	192.168.191.31
+接续框架	ngcscontrol	4	E	多组	192.168.191.32
+接续框架	ngcscontrol	4	E	多组	192.168.191.34
+接续框架	ngcscontrol	4	E	多组	192.168.191.35
+接续框架	ngcscore	4	D	多组	192.168.191.36
+接续框架	ngcscore	4	D	多组	192.168.191.38
+接续框架	ngcscore	4	D	多组	192.168.191.39
+接续框架	ngcscore	4	D	多组	192.168.191.40
+接续框架	ngcscore	4	D	多组	192.168.191.42
+接续框架	ngcscore	4	E	多组	192.168.191.43
+接续框架	ngcscore	4	E	多组	192.168.191.46
+接续框架	ngcscore	4	E	多组	192.168.191.47
+接续框架	ngcscore	4	E	多组	192.168.191.48
+接续框架	ngcscore	4	E	多组	192.168.191.50
+接触管理	ngcct	4	D	多组	192.168.191.51
+接触管理	ngcct	4	D	多组	192.168.191.52
+接触管理	ngcct	4	D	多组	192.168.191.53
+接触管理	ngcct	4	D	多组	192.168.191.55
+接触管理	ngcct	4	E	多组	192.168.191.57
+接触管理	ngcct	4	E	多组	192.168.191.59
+接触管理	ngcct	4	E	多组	192.168.191.60
+接触管理	ngcct	4	E	多组	192.168.191.62
+接触管理	ngcctcontrol	4	D	多组	192.168.191.63
+接触管理	ngcctcontrol	4	D	多组	192.168.191.68
+接触管理	ngcctcontrol	4	D	多组	192.168.191.69
+接触管理	ngcctcontrol	4	D	多组	192.168.191.72
+接触管理	ngcctcontrol	4	E	多组	192.168.191.74
+接触管理	ngcctcontrol	4	E	多组	192.168.191.75
+接触管理	ngcctcontrol	4	E	多组	192.168.191.76
+接触管理	ngcctcontrol	4	E	多组	192.168.191.77
+接触管理	ngcctcore	4	D	多组	192.168.191.78
+接触管理	ngcctcore	4	D	多组	192.168.191.79
+接触管理	ngcctcore	4	D	多组	192.168.191.82
+接触管理	ngcctcore	4	D	多组	192.168.191.83
+接触管理	ngcctcore	4	E	多组	192.168.191.84
+接触管理	ngcctcore	4	E	多组	192.168.191.85
+接触管理	ngcctcore	4	E	多组	192.168.191.86
+接触管理	ngcctcore	4	E	多组	192.168.191.88
+家宽营销二级应用redis zk	redis zk				192.168.191.89
+家宽营销二级应用redis zk	redis zk				192.168.191.90
+家宽营销二级应用redis zk	redis zk				192.168.191.91
+众包平台用					192.168.191.92
+众包平台用					192.168.191.93
+众包平台用					192.168.191.94
+众包平台用					192.168.191.96
+众包平台用					192.168.191.98
+众包平台用					192.168.191.99
+众包平台用					192.168.191.100
+众包平台用					192.168.191.101
+众包平台用					192.168.191.102
+众包平台用					192.168.191.104
+众包平台用					192.168.191.105
+众包平台用					192.168.191.108
+众包平台用					192.168.191.109
+众包平台用					192.168.191.112
+众包平台用					192.168.191.116
+众包平台用					192.168.191.117
+众包平台用					192.168.191.118
+众包平台用					192.168.191.119
+众包平台用					192.168.191.120
+众包平台用					192.168.191.124
+众包平台用					192.168.191.125
+众包平台用					192.168.191.126
+众包平台用					192.168.191.130
+众包平台用					192.168.191.131
+众包平台用					192.168.191.132
+众包平台用					192.168.191.133
+众包平台用					192.168.191.134
+众包平台用					192.168.191.137
+众包平台用					192.168.191.138
+众包平台用					192.168.191.143
+众包平台用					192.168.191.147
+众包平台用					192.168.191.150
+众包平台用					192.168.191.151
+众包平台用					192.168.191.152
+众包平台用					192.168.191.153
+众包平台用					192.168.191.154
+众包平台用					192.168.191.157
+众包平台用					192.168.191.158
+众包平台用					192.168.191.160
+众包平台用					192.168.191.161
+众包平台用					192.168.191.162
+众包平台用					192.168.191.164
+众包平台用					192.168.191.165
+众包平台用					192.168.191.166
+众包平台用					192.168.191.167
+众包平台用					192.168.191.168
+众包平台用					192.168.191.171
+众包平台用					192.168.191.172
+众包平台用					192.168.191.173
+众包平台用					192.168.191.174
+众包平台用					192.168.191.175
+众包平台用					192.168.191.176
+众包平台用					192.168.191.177
+众包平台用					192.168.191.180
+众包平台用					192.168.191.181
+众包平台用					192.168.191.184
+众包平台用					192.168.191.186
+众包平台用					192.168.191.187
+众包平台用					192.168.191.188
+众包平台用					192.168.191.189
+众包平台用					192.168.191.190
+众包平台用					192.168.191.191
+众包平台用					192.168.191.192
+众包平台用					192.168.191.194
+众包平台用					192.168.191.195
+众包平台用					192.168.191.196
+众包平台用					192.168.191.197
+众包平台用					192.168.191.198
+众包平台用					192.168.191.199
+众包平台用					192.168.191.200
+众包平台用					192.168.191.201
+众包平台用					192.168.191.204
+众包平台用					192.168.191.205
+众包平台用					192.168.191.206
+众包平台用					192.168.191.207
+众包平台用					192.168.191.208
+众包平台用					192.168.191.209
+众包平台用					192.168.191.211
+众包平台用					192.168.191.212
+众包平台用					192.168.191.213
+众包平台用					192.168.191.214
+众包平台用					192.168.191.215
+众包平台用					192.168.191.216
+众包平台用					192.168.191.218
+众包平台用					192.168.191.220
+众包平台用					192.168.191.222
+众包平台用					192.168.191.223
+众包平台用					192.168.191.224
+众包平台用					192.168.191.225
+众包平台用					192.168.191.226
+众包平台用					192.168.191.227
+众包平台用					192.168.191.228
+众包平台用					192.168.191.229
+众包平台用					192.168.191.230
+众包平台用					192.168.191.6
+众包平台用					192.168.191.12
+众包平台用					192.168.191.13
+众包平台用					192.168.191.15
+众包平台用					192.168.191.16
+众包平台用					192.168.191.20
+众包平台用					192.168.191.22
+众包平台用					192.168.191.30
+众包平台用					192.168.191.33
+众包平台用					192.168.191.37
+众包平台用					192.168.191.41
+众包平台用					192.168.191.44
+众包平台用					192.168.191.45
+众包平台用					192.168.191.49
+众包平台用					192.168.191.56
+众包平台用					192.168.191.58
+众包平台用					192.168.191.61
+众包平台用					192.168.191.64
+众包平台用					192.168.191.65
+众包平台用					192.168.191.66
+众包平台用					192.168.191.67
+众包平台用					192.168.191.70
+众包平台用					192.168.191.71
+众包平台用					192.168.191.73
+众包平台用					192.168.191.80
+众包平台用					192.168.191.81
+众包平台用					192.168.191.95
+众包平台用					192.168.191.103
+众包平台用					192.168.191.107
+众包平台用					192.168.191.111
+众包平台用					192.168.191.113
+众包平台用					192.168.191.114
+众包平台用					192.168.191.115
+众包平台用					192.168.191.121
+众包平台用					192.168.191.122
+众包平台用					192.168.191.123
+众包平台用					192.168.191.127
+众包平台用					192.168.191.136
+众包平台用					192.168.191.140
+众包平台用					192.168.191.141
+众包平台用					192.168.191.142
+众包平台用					192.168.191.144
+众包平台用					192.168.191.145
+众包平台用					192.168.191.146
+众包平台用					192.168.191.149
+众包平台用					192.168.191.155
+众包平台用					192.168.191.156
+众包平台用					192.168.191.159
+众包平台用					192.168.191.163
+众包平台用					192.168.191.169
+众包平台用					192.168.191.178
+众包平台用					192.168.191.179
+众包平台用					192.168.191.182
+众包平台用					192.168.191.183
+众包平台用					192.168.191.185
+众包平台用					192.168.191.193
+广东	ngwf_gd	4	a	两组	192.168.191.202
+广东	ngwf_gd	4	a	两组	192.168.191.203
+广东	ngwf_gd	4	b	两组	192.168.191.217
+广东	ngwf_gd	4	b	两组	192.168.191.219
+广东	ngwfcontrol_gd	4	a	两组	192.168.192.4
+广东	ngwfcontrol_gd	4	a	两组	192.168.192.7
+广东	ngwfcontrol_gd	4	b	两组	192.168.192.8
+广东	ngwfcontrol_gd	4	b	两组	192.168.192.12
+广东	ngwfcore_gd	4	a	两组	192.168.192.13
+广东	ngwfcore_gd	4	a	两组	192.168.192.15
+广东	ngwfcore_gd	4	b	两组	192.168.192.16
+广东	ngwfcore_gd	4	b	两组	192.168.192.18
+广东	ngwf_gd	3	X	灰度	192.168.192.19
+服务请求	ngwf	4	D	多组	192.168.192.20
+服务请求	ngwf	4	D	多组	192.168.192.21
+服务请求	ngwf	4	E	多组	192.168.192.22
+服务请求	ngwf	4	E	多组	192.168.192.25
+服务请求	ngwfcontrol	4	D	多组	192.168.192.27
+服务请求	ngwfcontrol	4	D	多组	192.168.192.30
+服务请求	ngwfcontrol	4	E	多组	192.168.192.31
+服务请求	ngwfcontrol	4	E	多组	192.168.192.33
+服务请求	ngwfcore	4	D	多组	192.168.192.35
+服务请求	ngwfcore	4	D	多组	192.168.192.37
+服务请求	ngwfcore	4	E	多组	192.168.192.39
+服务请求	ngwfcore	4	E	多组	192.168.192.40
+全网业务办理	ngbusi	4	D	多组	192.168.192.41
+全网业务办理	ngbusi	4	D	多组	192.168.192.42
+全网业务办理	ngbusi	4	E	多组	192.168.192.43
+全网业务办理	ngbusi	4	E	多组	192.168.192.44
+全网业务办理	ngbusicontrol	4	D	多组	192.168.192.46
+全网业务办理	ngbusicontrol	4	D	多组	192.168.192.48
+全网业务办理	ngbusicontrol	4	E	多组	192.168.192.50
+全网业务办理	ngbusicontrol	4	E	多组	192.168.192.52
+全网业务办理	ngbusicore	4	D	多组	192.168.192.53
+全网业务办理	ngbusicore	4	D	多组	192.168.192.54
+全网业务办理	ngbusicore	4	E	多组	192.168.192.55
+全网业务办理	ngbusicore	4	E	多组	192.168.192.56
+					192.168.192.57
+					192.168.192.58
+					192.168.192.59
+广西	ngwf_gx_new	4	a	两组	192.168.192.61
+广西	ngwf_gx_new	4	b	两组	192.168.192.62
+广西	ngwfcontrol_gx_new	4	a	两组	192.168.192.63
+广西	ngwfcontrol_gx_new	4	b	两组	192.168.192.64
+广西	ngwfcore_gx_new	4	a	两组	192.168.192.65
+广西	ngwfcore_gx_new	4	b	两组	192.168.192.67
+广西	ngwf_gx_new	3	X	灰度	192.168.192.68
+家宽宽带营销ngwlanmk	rocketmq4.1.0		主		192.168.192.69
+家宽宽带营销ngwlanmk	rocketmq4.1.0		主		192.168.192.71
+服务助手	ngsh	4	a	两组	192.168.192.74
+服务助手	ngsh	4	b	两组	192.168.192.75
+服务助手	ngshcontrol	4	a	两组	192.168.192.76
+服务助手	ngshcontrol	4	b	两组	192.168.192.77
+服务助手	ngshcore	4	a	两组	192.168.192.78
+服务助手	ngshcore	4	b	两组	192.168.192.79
+服务助手	ngsh	3	x	灰度	192.168.192.81
+统一知识库	ngkm	2	X	灰度	192.168.192.82
+					192.168.192.85
+					192.168.192.86
+					192.168.192.87
+					192.168.192.89
+					192.168.192.90
+					192.168.192.92
+					192.168.192.93
+					192.168.192.94
+					192.168.192.95
+					192.168.192.96
+					192.168.192.97
+					192.168.192.99
+					192.168.192.100
+					192.168.192.101
+					192.168.192.103
+					192.168.192.108
+					192.168.192.110
+					192.168.192.112
+					192.168.192.113
+					192.168.192.116
+					192.168.192.120
+					192.168.192.121
+					192.168.192.123
+					192.168.192.125
+					192.168.192.126
+					192.168.192.127
+					192.168.192.129
+					192.168.192.133
+					192.168.192.135
+					192.168.192.136
+					192.168.192.138
+					192.168.192.141
+					192.168.192.142
+					192.168.192.143
+					192.168.192.144
+					192.168.192.145
+					192.168.192.146
+					192.168.192.147
+					192.168.192.149
+					192.168.192.151
+					192.168.192.152
+					192.168.192.154
+					192.168.192.156
+					192.168.192.157
+					192.168.192.158
+					192.168.192.161
+					192.168.192.162
+					192.168.192.164
+					192.168.192.165
+					192.168.192.166
+					192.168.192.167
+					192.168.192.171
+					192.168.192.175
+					192.168.192.177
+					192.168.192.178
+					192.168.192.181
+					192.168.192.182
+					192.168.192.183
+					192.168.192.186
+					192.168.192.188
+					192.168.192.189
+					192.168.192.190
+					192.168.192.191
+					192.168.192.192
+					192.168.192.195
+					192.168.192.196
+					192.168.192.197
+					192.168.192.198
+					192.168.192.199
+					192.168.192.200
+					192.168.192.203
+					192.168.192.204
+					192.168.192.205
+					192.168.192.208
+					192.168.192.209
+					192.168.192.211
+					192.168.192.213
+					192.168.192.214
+					192.168.192.218
+					192.168.192.219
+					192.168.192.220
+					192.168.192.222
+					192.168.192.224
+					192.168.192.225
+					192.168.192.226
+					192.168.192.228
+					192.168.192.229
+					
+					
+家宽宽带营销ngwlanmk	ngwlanmkh5	4	A	两组	192.168.138.34
+家宽宽带营销ngwlanmk	ngwlanmkh5	4	B	两组	192.168.138.35
+渠道云外呼H5平台	ngchnlcallh5	4	A	两组	192.168.138.44
+渠道云外呼H5平台	ngchnlcallh5	4	B	两组	192.168.138.45
+接口平台	crmpfesb	1	X	灰度	192.168.138.54
+					192.168.138.58
+					192.168.138.65
+					192.168.138.84
+					192.168.138.92
+					192.168.138.95
+					192.168.138.107
+					192.168.138.122
+					192.168.138.126
+					192.168.138.154
+					192.168.138.176
+					192.168.138.184
+					192.168.138.186
+					192.168.138.190
+					192.168.138.212
+					192.168.138.226
